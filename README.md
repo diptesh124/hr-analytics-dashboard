@@ -139,6 +139,3 @@ DAX Calculations
 Dashboard Development
      ↓
 Interactive HR Analytics Dashboard
-
----
-
