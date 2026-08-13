@@ -134,3 +134,11 @@ DAX Calculations
 Dashboard Development
      ↓
 Interactive HR Analytics Dashboard
+
+---
+
+## 🖥️ Dashboard Preview
+
+<p align="center">
+  <img src="Screenshot-HR%20ANALYTICS.jpg" alt="HR Analytics Dashboard" width="100%">
+</p>
