@@ -22,6 +22,11 @@ This project uses Power BI to transform HR data into an interactive dashboard th
 | 💼 Average Experience | 7.04 Years |
 
 ---
+## 🖥️ Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diptesh124/hr-analytics-dashboard/main/Screenshot-HR%20ANALYTICS.jpg" alt="HR Analytics Dashboard" width="100%">
+</p>
 
 ## 📊 Dashboard Features
 
