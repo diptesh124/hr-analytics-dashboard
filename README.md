@@ -139,5 +139,5 @@ Interactive HR Analytics Dashboard
 
 ## 🖥️ Dashboard Preview
 
-https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg
+![Sales Dashboard](https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg)
 
