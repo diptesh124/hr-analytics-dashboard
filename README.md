@@ -139,6 +139,5 @@ Interactive HR Analytics Dashboard
 
 ## 🖥️ Dashboard Preview
 
-<p align="center">
-  <img src="https://github.com/diptesh124/hr-analytics-dashboard/blob/main/Screenshot-HR%20ANALYTICS.jpg" alt="HR Analytics Dashboard" width="100%">
-</p>
+https://github.com/diptesh124/SUPER-STORE-SALES-DASHBOARD/blob/main/Screenshot%201.jpg
+
