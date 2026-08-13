@@ -137,10 +137,3 @@ Interactive HR Analytics Dashboard
 
 ---
 
-
-    alt="HR Analytics Dashboard"
-    width="100%"
-  />
-</p>
-
----
